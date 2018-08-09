@@ -30,7 +30,8 @@
       "additionalSetColors": [
         "#030303",
         "#e8e2cb",
-        "#33cc14"
+        "#33cc14",
+        "#ff0505"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -768,11 +769,11 @@
               "color": "#ffffff"
             },
             "H2": {
-              "color": "#ffffff",
+              "color": "#ff0505",
               "text-align": "left"
             },
             ".mbr-section-subtitle DIV": {
-              "color": "#ffffff",
+              "color": "#ff0505",
               "text-align": "left"
             }
           },
