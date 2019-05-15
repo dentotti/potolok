@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /project.mobirise
+Sitemap: http://turbo-servis77.ru/sitemap.xml
+Host: http://turbo-servis77.ru
+
